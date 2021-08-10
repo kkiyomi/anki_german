@@ -1,0 +1,162 @@
+[
+    {
+        "verb": "sein",
+        "Verbformen": "ist/war/gewesen sein",
+        "english_translation": [
+            "be",
+            "have"
+        ],
+        "DE sentences": [
+            "Elektronische Zahlungsmittel sollten möglichst sicher sein.",
+            "Entsprechende Maßnahmen müssen jedoch verhältnismäßig sein."
+        ],
+        "EN sentences": [
+            "Electronic means of payment need to be as secure as possible.",
+            "However, measures designed with this in mind must be proportionate."
+        ]
+    },
+    {
+        "verb": "haben",
+        "Verbformen": "hat/hatte/gehabt haben",
+        "english_translation": [
+            "have",
+            "get"
+        ],
+        "DE sentences": [
+            "Die Mitgliedstaaten haben das Gesundheitswesen zuverlässig organisiert.",
+            "Diesmal haben wir jedoch viele Änderungsanträge."
+        ],
+        "EN sentences": [
+            "The Member States have organised their healthcare in a safe and reliable manner.",
+            "However, we have a lot of amendments on this occasion."
+        ]
+    },
+    {
+        "verb": "werden",
+        "Verbformen": "wird/wurde/geworden sein",
+        "english_translation": [
+            "be",
+            "will"
+        ],
+        "DE sentences": [
+            "Gegebenenfalls werden einige Mitarbeiter aus Amman nach Bagdad versetzt werden.",
+            "Alle diese Vorschläge werden im Herbst diskutiert werden."
+        ],
+        "EN sentences": [
+            "It is possible that some personnel will be transferred from Amman to Baghdad.",
+            "All of these proposals will be raised for discussion during the Autumn."
+        ]
+    },
+    {
+        "verb": "können",
+        "Verbformen": "kann/konnte/gekonnt haben",
+        "english_translation": [
+            "can",
+            "may"
+        ],
+        "DE sentences": [
+            "Falsche Vorgänge können schwere Unfälle verursachen.",
+            "Beide Updates können kostenlos heruntergeladen werden."
+        ],
+        "EN sentences": [
+            "Failure to follow the proper procedure can cause a serious accident.",
+            "Both updates can be obtained via a free of charge download."
+        ]
+    },
+    {
+        "verb": "müssen",
+        "Verbformen": "muss/musste/gemusst, gemußt haben",
+        "english_translation": [
+            "must",
+            "have"
+        ],
+        "DE sentences": [
+            "Die EU-Institutionen müssen rechtzeitig reformiert werden.",
+            "Freigegebene Mappen müssen mindestens ein Arbeitsblatt enthalten."
+        ],
+        "EN sentences": [
+            "The composition of the European institutions must be changed in good time.",
+            "To share this workbook, it must contain at least one visible worksheet."
+        ]
+    },
+    {
+        "verb": "sagen",
+        "Verbformen": "sagt/sagte/gesagt haben",
+        "english_translation": [
+            "say",
+            "tell"
+        ],
+        "DE sentences": [
+            "Zu zwei Änderungsanträgen meiner Fraktion möchte ich auch einiges sagen.",
+            "Da muß ich etwas zum Selbstverständnis von Politik überhaupt sagen."
+        ],
+        "EN sentences": [
+            "I would also like to say something about the two amendments tabled by my group.",
+            "Here I must say something about our concept of politics in general."
+        ]
+    },
+    {
+        "verb": "machen",
+        "Verbformen": "macht/machte/gemacht haben",
+        "english_translation": [
+            "make",
+            "do"
+        ],
+        "DE sentences": [
+            "Den Unterschied machen Schnitte und Proportionen.",
+            "Diese Änderungen machen die Arbeit mit Annotationen intuitiver und einfacher."
+        ],
+        "EN sentences": [
+            "It's the cuts and proportions that make all the difference.",
+            "These changes make working with annotations more intuitive and quick to use."
+        ]
+    },
+    {
+        "verb": "geben",
+        "Verbformen": "gibt/gab/gegeben haben",
+        "english_translation": [
+            "give",
+            "enter"
+        ],
+        "DE sentences": [
+            "Ich möchte keine vollständige Darlegung des Haushaltsentwurfs geben.",
+            "Natürlich müsste der Rat sein Einverständnis geben."
+        ],
+        "EN sentences": [
+            "I do not intend to give a complete outline of the draft budget.",
+            "The Council would have to give its consent, of course."
+        ]
+    },
+    {
+        "verb": "kommen",
+        "Verbformen": "kommt/kam/gekommen sein",
+        "english_translation": [
+            "come",
+            "get"
+        ],
+        "DE sentences": [
+            "Im Statikmischer kommen beide Förderströme zusammen.",
+            "Alle Teilausdrücke in einem CPL-Ausdruck müssen aus derselben Verbindung kommen."
+        ],
+        "EN sentences": [
+            "Both of the pumped flows come together in the static mixer.",
+            "All subexpressions in a CPL expression must come from the same connection."
+        ]
+    },
+    {
+        "verb": "sollen",
+        "Verbformen": "soll/sollte/gesollt haben",
+        "english_translation": [
+            "shall",
+            "let"
+        ],
+        "DE sentences": [
+            "Diese Vorgänge sollen jetzt etwas eingehender untersucht werden.",
+            "Die verfügbaren Finanzmittel sollen eine Hebelwirkung erzielen."
+        ],
+        "EN sentences": [
+            "Let's examine how all of this works in a little more detail.",
+            "It is aimed at achieving a leverage effect with the financial resources available."
+        ]
+    }
+]

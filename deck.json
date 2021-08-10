@@ -1,0 +1,343 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "f77f1939-598b-11ea-afb2-1867b089b138",
+    "deck_config_uuid": "f77f193a-598b-11ea-8e41-1867b089b138",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f77f193a-598b-11ea-8e41-1867b089b138",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10,
+                    1440
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 30,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 180,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "German verbs",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "css": ".card {\n font-family: Futura Medium;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "German",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "English",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Präsens/Präteritum/Perfekt",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Deutsch sentence 1",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "English sentence 1",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Deutsch sentence 2",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "English sentence 2",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-e54c4",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{German}}<br>\n<br>\n\n<hr id=answer>\n\n{{English}}\n<br><br>\n\n<div>{{Präsens/Präteritum/Perfekt}}</div><br>\n\n---------------------------------\n<br><br>\n\n<div>{{Deutsch sentence 1}}</div><br>\n\n<div>{{English sentence 1}}</div><br>\n\n---------------------------------\n<br><br>\n\n<div>{{Deutsch sentence 2}}</div><br>\n\n<div>{{English sentence 2}}</div>\n",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{German}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sein",
+                "be/have",
+                "ist/war/gewesen sein",
+                "Elektronische Zahlungsmittel sollten möglichst sicher sein.",
+                "Electronic means of payment need to be as secure as possible.",
+                "Entsprechende Maßnahmen müssen jedoch verhältnismäßig sein.",
+                "However, measures designed with this in mind must be proportionate."
+            ],
+            "flags": 0,
+            "guid": "0f82a73ad7cf4db594ca7fc21c55860a",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "haben",
+                "have/get",
+                "hat/hatte/gehabt haben",
+                "Die Mitgliedstaaten haben das Gesundheitswesen zuverlässig organisiert.",
+                "The Member States have organised their healthcare in a safe and reliable manner.",
+                "Diesmal haben wir jedoch viele Änderungsanträge.",
+                "However, we have a lot of amendments on this occasion."
+            ],
+            "flags": 0,
+            "guid": "71e82794d77b4b48b54be334bc7397ea",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "werden",
+                "be/will",
+                "wird/wurde/geworden sein",
+                "Gegebenenfalls werden einige Mitarbeiter aus Amman nach Bagdad versetzt werden.",
+                "It is possible that some personnel will be transferred from Amman to Baghdad.",
+                "Alle diese Vorschläge werden im Herbst diskutiert werden.",
+                "All of these proposals will be raised for discussion during the Autumn."
+            ],
+            "flags": 0,
+            "guid": "4f5cecec2d124cfb9740a06608faedf0",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "können",
+                "can/may",
+                "kann/konnte/gekonnt haben",
+                "Falsche Vorgänge können schwere Unfälle verursachen.",
+                "Failure to follow the proper procedure can cause a serious accident.",
+                "Beide Updates können kostenlos heruntergeladen werden.",
+                "Both updates can be obtained via a free of charge download."
+            ],
+            "flags": 0,
+            "guid": "ce28d17dffd343e7b67e7055a41213b9",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "müssen",
+                "must/have",
+                "muss/musste/gemusst, gemußt haben",
+                "Die EU-Institutionen müssen rechtzeitig reformiert werden.",
+                "The composition of the European institutions must be changed in good time.",
+                "Freigegebene Mappen müssen mindestens ein Arbeitsblatt enthalten.",
+                "To share this workbook, it must contain at least one visible worksheet."
+            ],
+            "flags": 0,
+            "guid": "ed17b1f6e9bb41ea8edd9bdcc81aeb3e",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sagen",
+                "say/tell",
+                "sagt/sagte/gesagt haben",
+                "Zu zwei Änderungsanträgen meiner Fraktion möchte ich auch einiges sagen.",
+                "I would also like to say something about the two amendments tabled by my group.",
+                "Da muß ich etwas zum Selbstverständnis von Politik überhaupt sagen.",
+                "Here I must say something about our concept of politics in general."
+            ],
+            "flags": 0,
+            "guid": "0f8668f2354a40ab8b330ebab55f00bb",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "machen",
+                "make/do",
+                "macht/machte/gemacht haben",
+                "Den Unterschied machen Schnitte und Proportionen.",
+                "It's the cuts and proportions that make all the difference.",
+                "Diese Änderungen machen die Arbeit mit Annotationen intuitiver und einfacher.",
+                "These changes make working with annotations more intuitive and quick to use."
+            ],
+            "flags": 0,
+            "guid": "55091291f035401aa16fea0ebc7541bb",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "geben",
+                "give/enter",
+                "gibt/gab/gegeben haben",
+                "Ich möchte keine vollständige Darlegung des Haushaltsentwurfs geben.",
+                "I do not intend to give a complete outline of the draft budget.",
+                "Natürlich müsste der Rat sein Einverständnis geben.",
+                "The Council would have to give its consent, of course."
+            ],
+            "flags": 0,
+            "guid": "605dd3db39de40c0bcb97053fd928755",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kommen",
+                "come/get",
+                "kommt/kam/gekommen sein",
+                "Im Statikmischer kommen beide Förderströme zusammen.",
+                "Both of the pumped flows come together in the static mixer.",
+                "Alle Teilausdrücke in einem CPL-Ausdruck müssen aus derselben Verbindung kommen.",
+                "All subexpressions in a CPL expression must come from the same connection."
+            ],
+            "flags": 0,
+            "guid": "49923883ab6244578d6baf29b557e545",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sollen",
+                "shall/let",
+                "soll/sollte/gesollt haben",
+                "Diese Vorgänge sollen jetzt etwas eingehender untersucht werden.",
+                "Let's examine how all of this works in a little more detail.",
+                "Die verfügbaren Finanzmittel sollen eine Hebelwirkung erzielen.",
+                "It is aimed at achieving a leverage effect with the financial resources available."
+            ],
+            "flags": 0,
+            "guid": "2e98c304b6cd42259bf8ad61aed47ee2",
+            "newlyAdded": true,
+            "note_model_uuid": "f77f193d-598b-11ea-ba0f-1867b089b138",
+            "tags": []
+        }
+    ]
+}
